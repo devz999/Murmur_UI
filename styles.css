@@ -29,7 +29,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   z-index: -1;
-  opacity: 0.70;
+  opacity: 0.90;
 }
 
 @media (max-width: 768px) {
